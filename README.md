@@ -3,11 +3,12 @@ API para encurtar URLs com analytics.
 
 ## Tecnologias  
 - Node.js + Express  
-- PostgreSQL/Redis  
+- MongoDB
 - Docker  
 
 ## Como rodar?  
 ```bash  
 git clone [repo]  
 npm install  
-docker-compose up  
+docker-compose up
+```
